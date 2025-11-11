@@ -2,7 +2,7 @@ n = int(input())
 
 for _ in range(n):
     input()
-    l = list(map(int, input().split()))
+    l = sorted(list(map(int, input().split())))
     s = True
     
     for i in range(len(l) - 1):
