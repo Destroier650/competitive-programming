@@ -29,4 +29,3 @@ Soluções desenvolvidas em:
 * [**CodeChef**](./CodeChef): Soluções arquivadas e desafios da plataforma [CodeChef](https://www.codechef.com).
 
 ---
-*Este repositório é mantido por [Alef Emanuel](LINK_DO_SEU_PERFIL_GITHUB).*
